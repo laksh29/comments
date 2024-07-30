@@ -13,9 +13,6 @@ Flutter project where I have fetched around 500 comments from a dummy API:
 - [ ] Image Picker - to pick any image from the gallery
 - [ ] Dio - to perform calls on REST API
 
-### API
- [Link](https://drive.google.com/file/d/1AJG9ND_hfbwFebSktfbX5IZZwe5Ct043/view?usp=sharing)
-
  ### Demo Video
 
 https://github.com/user-attachments/assets/4f00391a-08e5-4861-aed0-916c1df9f9e6
